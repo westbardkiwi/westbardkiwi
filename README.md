@@ -5,7 +5,7 @@ everything I can to enter into the field of cybersecurity. So far
 it has been a rollercoaster. If you are an employer who I applied
 to, there is not much here as of the current revision of this doc
 as I am still figuring out GitHub. There will be more in the next
-few weeks as I practice programming. Stay tuned!
+few weeks as I practice Version Access Controls. Stay tuned!
 
 If you happened across this page just browsing GitHub, please try
 to stick around long enough to browse the repositories if any are
