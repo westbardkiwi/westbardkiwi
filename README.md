@@ -2,7 +2,7 @@
 # About
 Hey! My name is WestBardKiwi. I am currently trying my best to do
 everything I can to enter into the field of cybersecurity. So far
-it had been a rollercoaster. If you are an employer who I applied
+it has been a rollercoaster. If you are an employer who I applied
 to, there is not much here as of the current revision of this doc
 as I am still figuring out GitHub. There will be more in the next
 few weeks as I practice programming. Stay tuned!
